@@ -59,12 +59,17 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    AI engineer with 3+ years of professional experience at Honda R&D,
+    focusing on spatial analysis, graph neural networks, vision language models,
+    and computer vision for traffic safety research. Well-versed in FastAPI,
+    software architecture, and testing strategies, with a strong commitment
+    to writing readable and robust code.
+
+    Passionate about building useful tools that improve development quality
+    and participating in Kaggle competitions. Solid background in control
+    engineering and Kalman filtering from Keio University.
+
+    Please feel free to reach out to me!
 education:
   title: Education
   info:
