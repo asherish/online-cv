@@ -95,9 +95,30 @@ experiences:
         - Traffic hazard reasoning using vision language models (VLMs)
         - Extraction and clustering of vehicle trajectories from CCTV footage
 
-# certifications:
-#   title: Certifications
-#   list:
+certifications:
+  title: Certifications
+  list:
+  - name: AI & Semiconductor Course
+    start: 2025
+    end:
+    organization: Matsuo-Iwasawa Lab, U-Tokyo
+    # credentialid:
+    # credentialurl:
+    # credentialname:
+  - name: Deep Learning for GENERAL
+    start: 2024
+    end:
+    organization: Japan Deep Learning Association
+    # credentialid:
+    # credentialurl:
+    # credentialname:
+  - name: Large Language Models Course
+    start: 2024
+    end:
+    organization: Matsuo-Iwasawa Lab, U-Tokyo
+    # credentialid:
+    # credentialurl:
+    # credentialname:
 
 projects:
   title: Projects
